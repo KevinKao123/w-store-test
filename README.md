@@ -1,4 +1,4 @@
-# ninghao-docker-wordpress
+# docker-wordpress
 Running WordPress in Docker container.
 
 ## .env
